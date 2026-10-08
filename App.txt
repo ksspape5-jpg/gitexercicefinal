@@ -1,1 +1,2 @@
 mon premier projet  version 1
+description: projet d'entraînement Git
